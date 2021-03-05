@@ -1,0 +1,14 @@
+/** Define the footer rules **/
+footer {
+    position: fixed;
+    bottom: 0cm;
+    left: 0cm;
+    right: 0cm;
+    height: 2cm;
+
+    /** Extra personal styles **/
+    background-color: #03a9f4;
+    color: white;
+    text-align: center;
+    line-height: 1.5cm;
+}

@@ -1,0 +1,13 @@
+
+.tombol {
+    background: #EC5159;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #eee;
+    font-size: 15pt;
+    border-bottom: 4px solid #BF3D3D;
+}
+
